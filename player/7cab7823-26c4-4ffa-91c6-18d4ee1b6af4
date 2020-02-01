@@ -3,8 +3,8 @@
 {"name":"2012_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"2012_cape"},"2013_cape":
 {"name":"2013_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"2013_cape"},"2015_cape":
 {"name":"2015_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"2015_cape"},"2016_cape":
-{"name":"2016_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"2016_cape"},"2019_cape":
-{"name":"2019_cape","type":"cape","scale":0.16,"active":true,"resourceLocation":"2019_cape"},"420_cape":
+{"name":"2016_cape","type":"cape","scale":0.16,"active":true,"resourceLocation":"2016_cape"},"2019_cape":
+{"name":"2019_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"2019_cape"},"420_cape":
 {"name":"420_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"420_cape"},"argentina_cape":
 {"name":"argentina_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"argentina_cape"},"brazil_cape":
 {"name":"brazil_cape","type":"cape","scale":0.16,"active":false,"resourceLocation":"brazil_cape"},"canada_cape":
